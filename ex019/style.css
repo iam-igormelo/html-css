@@ -1,0 +1,33 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+body{
+    background-color: rgb(178, 252, 227);
+    font-family: 'Architects Daughter', cursive;
+}
+h1{
+    color: rgb(24, 122, 90);
+}
+h1#principal{
+    text-align: center;
+    background-color: rgb(24, 122, 90);
+    color: white;
+}
+h2{
+    color: rgb(134, 27, 120);
+}
+span{
+    font-weight: bold;
+}
+.basico{
+    color: rgb(24, 122, 90);
+}
+.intermediario{
+    color: rgb(107, 122, 24);
+}
+.avancado{
+    color: rgb(122, 24, 24);
+}
+.destaque{
+    background-color: rgba(233, 233, 70, 0.685);
+}
